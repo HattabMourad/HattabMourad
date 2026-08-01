@@ -5,7 +5,8 @@ Full-Stack Developer focused on building web apps and AI projects.
 ---
 
 ## 🧠 Stack
-React • Node.js • PostgreSQL • Supabase • Tailwind • TypeScript 
+React • Node.js • PostgreSQL • Supabase • Tailwind • TypeScript
+
 Python • OpenCV • TensorFlow
 
 ---
